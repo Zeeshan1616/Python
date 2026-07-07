@@ -3,12 +3,6 @@
 # 🔐 Password Strength Checker
 
 ### A Python CLI tool that scores your password and tells you exactly how to make it stronger
-
-![Python](https://img.shields.io/badge/Python-3.x-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Status](https://img.shields.io/badge/Status-Active-brightgreen?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-yellow?style=for-the-badge)
-![Platform](https://img.shields.io/badge/Platform-CLI-blueviolet?style=for-the-badge)
-
 </div>
 
 ---
